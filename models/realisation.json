@@ -1,0 +1,121 @@
+{
+    "data": [
+      {
+        "instruction": "Parle-moi de la prestation réalisée au Port Autonome de Kribi.",
+        "response": "La prestation réalisée au Port Autonome de Kribi avait pour objectif d’apporter une assistance à la maîtrise d’ouvrage dans le cadre de la mise en œuvre d’un nouveau Système d’Information Portuaire fonctionnel, évolutif, interconnectable et interopérable avec les systèmes d’information des autres intervenants de la communauté portuaire."
+      },
+      {
+        "instruction": "Que pouvez-vous me dire sur la prestation effectuée pour la Société Anonyme des Brasseries du Cameroun ?",
+        "response": "La prestation pour la Société Anonyme des Brasseries du Cameroun visait à auditer la plateforme ODOO et fournir des recommandations pour optimiser cette dernière, afin d’améliorer son efficacité au bénéfice de l’entreprise."
+      },
+      {
+        "instruction": "Quels sont les objectifs du projet PAGIRN PPTIC ?",
+        "response": "Le projet PAGIRN PPTIC est une réponse stratégique aux défis des TIC en Afrique centrale. Il vise à améliorer la gouvernance, les infrastructures, et les compétences dans le domaine des TIC, tout en réduisant la fracture numérique et en intégrant les pays dans l’économie numérique mondiale. Ce projet inclut la création d'un Observatoire régional des TIC pour analyser les utilisations actuelles et les scénarios futurs."
+      },
+      {
+        "instruction": "Comment fonctionne l’Observatoire régional des TIC en Afrique centrale ?",
+        "response": "L’Observatoire régional des TIC en Afrique centrale sera une plateforme numérique accessible en ligne, offrant un cadre prospectif et de planification à long terme. Elle fournira des statistiques sur l’accessibilité et l’utilisation des services TIC, une cartographie dynamique des infrastructures TIC, ainsi que des informations sur les ressources humaines et les institutions de formation dans les TIC."
+      },
+      {
+        "instruction": "Quel est l’objectif de l’Observatoire régional des TIC ?",
+        "response": "L’objectif de l’Observatoire régional des TIC est de disposer de statistiques officielles, fiables et actualisées sur l’accessibilité des services TIC, ainsi que des données sur les infrastructures et les ressources humaines dans les pays de l’Afrique centrale. Il sera également équipé d’un portail web permettant d’accéder à ces informations."
+      },
+      {
+        "instruction": "Quels sont les volets du projet PAGIRN-PPTIC ?",
+        "response": "Le projet PAGIRN-PPTIC comporte trois volets principaux : l’élaboration de la cartographie des besoins TIC, l’élaboration des documents cadres de référence, et le développement du capital humain. Il vise à renforcer la prospective et la planification des TIC en Afrique centrale."
+      },
+      {
+        "instruction": "Quand a été signé le contrat avec AFREETECH CAMEROON pour la mise en œuvre de l’observatoire ?",
+        "response": "Le contrat avec le cabinet AFREETECH CAMEROON pour la mise en œuvre de l’observatoire régional des TIC a été signé le 18 janvier 2024, suite à un appel d’offres en procédure simplifiée."
+      },
+      {
+        "instruction": "Quelles sont les attentes du projet PAGIRN-PPTIC concernant l’observatoire ?",
+        "response": "Une des attentes majeures du projet est la mise en place d’une plateforme interactive pour l’observatoire des TIC. Cette plateforme servira à diffuser des données et informations actualisées sur les TIC dans les pays de l’Afrique centrale, et permettra un accès permanent aux statistiques et à la cartographie des infrastructures TIC."
+      },
+      {
+        "instruction": "Quelles sont les objectifs spécifiques du projet PAGIRN-PPTIC ?",
+        "response": "Les objectifs spécifiques du projet incluent la mise en place d’un observatoire régional des TIC, la création d’une cartographie dynamique des infrastructures TIC et l’amélioration de l’accès à la formation et à l’expertise dans le domaine des TIC en Afrique centrale."
+      },
+      {
+        "instruction": "Quel est le thème de la 138e édition de la Fête du Travail célébrée par Afreetech ?",
+        "response": "La 138e édition de la Fête du Travail célébrée par Afreetech a eu lieu sous le thème : « Dialogue social constructif, facteur de promotion du travail décent et de progrès social »."
+      },
+      {
+        "instruction": "Que s'est-il passé lors de la célébration de la Fête du Travail chez Afreetech le 1er mai 2024 ?",
+        "response": "La célébration de la Fête du Travail chez Afreetech le 1er mai 2024 a été marquée par des moments d’échanges et de divertissements. À la fin de la journée, le Directeur Général a donné son mot d’encouragement aux employés."
+      },
+      {
+        "instruction": "Quel rôle joue Afreetech dans l'automatisation du système d'information pour l'IIA ?",
+        "response": "Afreetech a développé une solution d’automatisation du système d’information pour l'IIA afin de gérer les flux de travail, collecter et analyser les données, et générer des rapports personnalisés. Cette solution permet aux entreprises de prendre des décisions éclairées et de rester compétitives."
+      },
+      {
+        "instruction": "Quels sont les avantages de l'automatisation du système d'information pour les entreprises selon Afreetech ?",
+        "response": "L'automatisation du système d'information pour les entreprises présente des avantages tels qu'une meilleure productivité, une réduction des erreurs, une amélioration de la qualité des services, et à long terme, une augmentation de la rentabilité et une croissance durable."
+      },
+      {
+        "instruction": "Pourquoi Afreetech se positionne comme un partenaire clé dans la modernisation de la météorologie au Cameroun ?",
+        "response": "Afreetech se positionne comme un partenaire clé dans la modernisation de la météorologie au Cameroun en raison de son expertise technique et de son engagement envers l’excellence, contribuant à renforcer les capacités du pays à prévoir les phénomènes météorologiques extrêmes."
+      },
+      {
+        "instruction": "Comment Afreetech contribue-t-elle à la modernisation de la météorologie au Cameroun ?",
+        "response": "Afreetech contribue à la modernisation de la météorologie au Cameroun en collaborant avec le Ministère des Postes et Télécommunications pour améliorer les infrastructures météorologiques nationales et permettre une meilleure gestion des phénomènes climatiques extrêmes."
+      },
+      {
+        "instruction": "Quel est l'objectif du projet de modernisation de la météorologie du Cameroun ?",
+        "response": "L’objectif du projet de modernisation de la météorologie du Cameroun est d’améliorer la capacité du pays à prévoir les événements climatiques extrêmes tels que les tempêtes, les sécheresses, et les inondations afin de minimiser leur impact sur la population et les infrastructures."
+      },
+      {
+        "instruction": "Quel est le rôle d'Afreetech dans le projet de l’Observatoire Numérique au Bénin financé par la GIZ ?",
+        "response": "Afreetech joue un rôle central dans le projet de l'Observatoire Numérique au Bénin en collaborant avec la GIZ et le Ministère du Numérique et de la Digitalisation du Bénin pour développer une plateforme numérique qui centralise, analyse et diffuse les indicateurs numériques du pays."
+      },
+      {
+        "instruction": "Quels sont les principaux objectifs de l’Observatoire Numérique au Bénin ?",
+        "response": "Les principaux objectifs de l’Observatoire Numérique au Bénin sont de centraliser et de gérer les données numériques du pays, d’améliorer leur collecte, leur traitement et leur diffusion, et de fournir aux décideurs une vue d’ensemble pour orienter les politiques publiques."
+      },
+      {
+        "instruction": "Comment l’Observatoire Numérique au Bénin soutient-il le développement socio-économique du pays ?",
+        "response": "L’Observatoire Numérique au Bénin soutient le développement socio-économique du pays en améliorant l’accès et l’accessibilité aux données, renforçant la transparence et la prise de décisions éclairées pour les secteurs de la santé, de l’éducation, de l’agriculture et de l’économie."
+      },
+      {
+        "instruction": "PPTIC PAGIRN",
+        "response": "Le Programme de Partenariat pour l'Innovation et la Croissance Numérique (PPTIC) soutient l'intégration des technologies numériques dans le processus de développement au Cameroun. Il propose des solutions pour améliorer l'accès aux outils numériques pour les entreprises."
+      },
+      {
+        "instruction": "PAGIRN PPTIC formation",
+        "response": "Le programme de formation PAGIRN PPTIC propose des sessions pour développer les compétences numériques des individus et des entreprises afin de répondre aux défis numériques actuels et futurs."
+      },
+      {
+        "instruction": "PAGIRN PPTIC formateur",
+        "response": "Les formateurs du programme PAGIRN PPTIC sont des experts dans les technologies numériques, offrant des formations spécialisées pour renforcer les compétences des acteurs locaux dans le domaine de la technologie."
+      },
+      {
+        "instruction": "AFREETECH Cameroon solutions numériques",
+        "response": "AFREETECH Cameroon propose une large gamme de solutions numériques pour aider les entreprises à se digitaliser, de la mise en place de systèmes ERP à l'intégration de stations météorologiques pour la gestion des ressources naturelles."
+      },
+      {
+        "instruction": "Gestion des ressources naturelles station météorologique",
+        "response": "Les stations météorologiques installées par AFREETECH jouent un rôle clé dans la gestion des ressources naturelles, en fournissant des données en temps réel sur les conditions climatiques, ce qui aide à optimiser les activités agricoles et à renforcer la résilience des communautés locales face au changement climatique."
+      },
+      {
+        "instruction": "Changement climatique Waza",
+        "response": "Le projet ACREGIR à Waza, financé par le Fonds d'Adaptation au Changement Climatique, vise à accroître la résilience des communautés locales face aux changements climatiques en améliorant la gestion des ressources naturelles et en favorisant l'entrepreneuriat des jeunes."
+      },
+      {
+        "instruction": "Projet ACREGIR",
+        "response": "Le projet ACREGIR se concentre sur l'augmentation de la résilience des communautés du Nord et de l'Extrême-Nord du Cameroun en utilisant des solutions innovantes comme des stations météorologiques pour mieux anticiper les impacts du changement climatique."
+      },
+      {
+        "instruction": "AFREETECH ERP MAGZI",
+        "response": "AFREETECH a développé un ERP pour la Mission d’Aménagement et de Gestion des Zones Industrielles (MAGZI), permettant de centraliser les données et d'optimiser la gestion administrative, technique et financière de l'organisation."
+      },
+      {
+        "instruction": "MAGZI processus métiers",
+        "response": "Le progiciel de gestion intégré (ERP) mis en place pour la MAGZI couvre une large gamme de fonctions, incluant la gestion des stocks, des achats, de la paie, ainsi que la gestion des zones industrielles, du marketing et des études statistiques."
+      },
+      {
+        "instruction": "AFREETECH transformation digitale",
+        "response": "AFREETECH accompagne les entreprises dans leur transformation digitale en proposant des solutions personnalisées telles que des systèmes ERP, la gestion des processus métiers et l'intégration de technologies numériques pour améliorer les performances et l'efficacité."
+      }
+    ]          
+}
+  

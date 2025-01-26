@@ -1,0 +1,114 @@
+[
+    {
+        "instruction": "Quels services ont été fournis pour CAMPOST ?",
+        "response": "Fourniture, Installation et Mise en service d’un Progiciel de Gestion Intégré et d’un CRM."
+    },
+    {
+        "instruction": "Quels travaux ont été effectués pour le Conseil Régional du Centre ?",
+        "response": "Fourniture des équipements informatiques et l’installation du logiciel SIM_BA."
+    },
+    {
+        "instruction": "Quels projets ont été réalisés pour MIPROMALO ?",
+        "response": "Fourniture et installation d’un système informatisé de gestion intégrée des ressources humaines et paie, formation et mise en service, ainsi qu'un ERP de gestion financière et comptable."
+    },
+    {
+        "instruction": "Quelle assistance a été apportée dans le cadre du projet LOGO PEPS ?",
+        "response": "Elaboration du cahier des charges et appui à la maîtrise d’ouvrage pour le développement de l’application de suivi participatif du BIP."
+    },
+    {
+        "instruction": "Quels services ont été réalisés pour le PNUD au Cameroun ?",
+        "response": "Implémentation du logiciel de digitalisation des actes d’état civil, mise à jour du logiciel de numérisation et d’indexation des actes d’état civil, et élaboration d’une étude sur l’interopérabilité entre l’état civil et l’identité."
+    },
+    {
+        "instruction": "Quel projet a été réalisé pour la société Jassimile ?",
+        "response": "Réalisation d'un intranet et gestion électronique des documents."
+    },
+    {
+        "instruction": "Quels services ont été fournis pour Central African Backbone (CAB) ?",
+        "response": "Conception et réalisation du site web, ainsi qu'un projet pilote d'étude d'accès internet dans les universités de Yaoundé 1, Bamenda et Maroua."
+    },
+    {
+        "instruction": "Quels services ont été fournis pour InnovCRM ?",
+        "response": "Conception, réalisation et référencement d'un site web."
+    },
+    {
+        "instruction": "Quel audit a été réalisé pour LABOGENIE ?",
+        "response": "Audit SI et élaboration d'un schéma directeur informatique."
+    },
+    {
+        "instruction": "Quels travaux ont été effectués pour IRAD ?",
+        "response": "Configuration et déploiement de la solution MULTIGEST pour la GED."
+    },
+    {
+        "instruction": "Quels services ont été réalisés pour le Bureau de Mise à Niveau (BMN) ?",
+        "response": "Développement et mise en place d’un système d’information."
+    },
+    {
+        "instruction": "Quels projets ont été réalisés pour CAMWATER ?",
+        "response": "Fourniture des équipements et logiciels pour l’élaboration des études."
+    },
+    {
+        "instruction": "Quels travaux ont été effectués pour l'OAPI ?",
+        "response": "Mise en place d'une plateforme multi-acteurs et d'un portail web de promotion des Indications Géographiques (IG) en zone OAPI."
+    },
+    {
+        "instruction": "Quels services ont été fournis pour la CEPI ?",
+        "response": "Assistance à maîtrise d'ouvrage pour la migration Delta Bank."
+    },
+    {
+        "instruction": "Quel projet a été réalisé pour la Mutuelle Générale des Cheminots (MGC) ?",
+        "response": "Intégration et mutualisation des services."
+    },
+    {
+        "instruction": "Quels travaux ont été effectués pour la Mutuelle d'Ivry - la Fraternelle (MIF) ?",
+        "response": "Architecture SOA, portail web et CRM sociétaires."
+    },
+    {
+        "instruction": "Quel service a été fourni pour le Crédit Communautaire d'Afrique (CCA) ?",
+        "response": "Gestion du parc informatique."
+    },
+    {
+        "instruction": "Quels projets ont été réalisés pour SOCRIF ?",
+        "response": "Intégration et mutualisation des services."
+    },
+    {
+        "instruction": "Quel projet a été réalisé pour l'Institut International des Assurances (IIA) ?",
+        "response": "Mise en place d'un Progiciel de Gestion Intégré."
+    },
+    {
+        "instruction": "Quels services ont été fournis pour le Global Partnership for Education ?",
+        "response": "Conception, réalisation, hébergement et référencement du site web."
+    },
+    {
+        "instruction": "Quel projet a été réalisé pour le centre REMA ?",
+        "response": "Conception et réalisation d'un site web."
+    },
+    {
+        "instruction": "Quels travaux ont été effectués pour l'Université Catholique d'Afrique Centrale (UCAC) ?",
+        "response": "Développement d'un Progiciel de gestion intégré pour la gestion de la scolarité."
+    },
+    {
+        "instruction": "Quels services ont été fournis pour l'École Nationale d'Administration et de la Magistrature (ENAM) ?",
+        "response": "Développement d'un logiciel de gestion administrative et de sécurité biométrique."
+    },
+    {
+        "instruction": "Quels projets ont été réalisés pour le Ministère des Postes et Télécommunications (MINPOSTEL) ?",
+        "response": "Suivi et contrôle de la mise en place d’une plateforme technique, acquisition des équipements automatiques de collecte de données météorologiques, et conception de la plateforme web de développement des contenus locaux."
+    },
+    {
+        "instruction": "Quels services ont été fournis pour le Ministère des Forêts et de la Faune ?",
+        "response": "Conception d'une application de gestion du marché intérieur du bois camerounais."
+    },
+    {
+        "instruction": "Quels travaux ont été effectués pour Aéroports du Cameroun S.A ?",
+        "response": "Élaboration d'une charte informatique."
+    },
+    {
+        "instruction": "Quels projets ont été réalisés pour le Ministère des Transports ?",
+        "response": "Implémentation d'une base de données centralisée pour la gestion des données de sécurité routière et numérisation des archives."
+    },
+    {
+        "instruction": "Quels services ont été fournis pour le Fonds routier ?",
+        "response": "Archivage physique et numérique."
+    }
+]

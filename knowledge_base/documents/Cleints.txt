@@ -1,0 +1,244 @@
+Industries & Services
+CAMPOST client AFT
+Campost
+- Fourniture, Installation et Mise en service d’un Progiciel de Gestion Intégré. - Fourniture, Installation et Mise en service d’un CRM.
+
+bâtiment du conseil régional du centre
+Conseil Régional du Centre.
+- Fourniture des équipements informatiques et l’installation du logiciel SIM_BA.
+
+MIPROMALO client AFREETCH
+Mission de Promotion des Matériaux Locaux.
+- fourniture et installation d’un système informatisé de gestion intégrée des ressources humaines et paie, formation et mise en service. - ERP de gestion financière et comptable
+
+LOGO PEPS client afreetech
+Projet d'Amélioration de l'Efficacité de la Dépense Publique et du Système Statistique
+- Elaboration du cahier de charges et appui à la maitrise d’ouvrage en vue du développement de l’application de suivi participatif du BIP.
+
+PNUD client AFT
+Cameroun | Programme De Développement Des Nations Unies.
+-Implémentation du logiciel de digitalisation des actes d’état civil, la mise à jour du logiciel de numérisation et d’indexation des actes d’état civil, et l’élaboration d’une étude relative à 
+la mise en œuvre de l’interopérabilité entre l’état civil et l’identité.
+
+Logo Jassimile
+Société française de services à la personne.
+- Réalisation d'un intranet et gestion electronique des documents.
+
+Logo CAB
+Central African Backbone
+- Conception et réalisation du site web.
+- Projet pilote d'étude d'accès internet dans les universités de Yaoundé1, Bamenda et Maroua.
+
+Logo InnovCRM
+Solution de CRM commercialisée par la société française INNOVSOFT
+- Conception réalisation référencement site Web.
+
+Logo LABOGENIE
+Laboratoire National de Génie Civil, société camerounaise d'études normatives et de contrôle.
+- Audit SI élaboration d'un schéma directeur informatique.
+
+Logo IRAD
+Institut de Recherche Agricole pour le Développement, société camerounaise de recherches scientifiques.
+- Configuration et déploiement de la solution MULTIGEST pour la GED.
+
+BMN client AFT
+Bureau de Mise à Niveau des Entreprises Camerounaises.
+- Développement et la mise en place d’un système d’information.
+
+Logo CAMWATER
+CAMWATER
+- Fourniture des équipements et logiciels pour l’élaboration des études.
+
+Logo OAPI client aft
+Organisation Africaine de la Propriété Intellectuelle.
+- Mise en place d'une plateforme multi-acteurs et d'un portail web de promotion des IG ( indications Géographique ) en zone OAPI.
+
+DGD client AFT
+Direction Générales des Douanes Camerounaises.
+- Audit documentaire et proposition d’une politique de gestion des archives.
+
+Logo BUNEC
+Projet D'Amelioration Du Système D'État Civil Au Cameroun Pour Une Citoyenneté Active (PASECA)
+- Étude archivistique.
+- Application de gestion des registres d’Etat Civil dans le département du Mfoundi.
+
+Logo PNDP client AFREETECH
+Programme National de Développement Participatif.
+- Proposition d’un cadre normatif pour la dématérialisation .
+
+Logo Port Autonome de Kribi
+Port Autonome de Kribi, complexe portuaire camerounais.
+- Assistance à la maîtrise d'ouvrage pour le développement et la mise en place d'un système d'information portuaire.
+
+Logo Brasseries du Cameroun
+Société Anonyme des Brasseries du Cameroun, filiale du groupe français Castel.
+- Audit des performances de la plateforme ODOO de SABC.
+
+Logo BENEDICTA
+Entreprise française spécialisée dans la fabrication de mayonnaise, de moutarde et de sauces.
+- Application de la traçabilité logistique en aval de la production.
+
+Logo COMIFAC
+Commission des Forêts d'Afrique Centrale, organisation internationale de conservation et de gestion des écosystèmes forestiers.
+- Conception et développement d'un portail intranet et extranet.
+
+Logo SOPECAM
+Société de Presse et d'Editions du Cameroun
+- Réalisation du schéma directeur informatique.
+
+Banques & Assurances
+Logo AUXIA
+Filiale du groupe Malakoff Médéric, société française d’assurance sur la vie.
+- Application de gestion des astreintes.
+
+Logo CEPI
+Caisse d'Epargne Populaire et d'Investissement, société camerounaise de microfinance.
+- Assistance à maitrise d'ouvrage pour la migration Delta Bank.
+
+Logo MGC
+Mutuelle Générale des Cheminots, mutuelle française de santé et de prévoyance.
+- Intégration et mutualisation des services.
+
+Logo MIF
+Mutuelle d'Ivry - la Fraternelle, société française assurance vie, retraite, pension complémentaire, secours, prévoyance.
+- Architecture SOA portail web CRM sociétaires.
+
+Logo CCA
+Crédit Communautaire d'Afrique, banque camerounaise.
+- Gestion du parc informatique.
+
+Logo SOCRIF
+Gamme de crédits immobiliers et à la consommation distribuée par la société française SOFIAP.
+- Intégration et mutualisation des services.
+
+Éducation & Recherche
+Afreetech dans l'automatisation du SI de l'IIA logo IIA
+Institut International des Assurances
+- Mise en place d'un Progiciel de Gestion Intégré
+
+Logo Global Partnership for Education
+Organisation internationale visant à scolariser tous les enfants dans les pays les plus pauvres.
+- Conception réalisation hébergement référencement site web.
+
+Logo REMA
+Recherche En Microéconomie Appliquée, centre de recherche camerounais.
+- Conception réalisation site Web.
+
+UCAC
+Université Catholique d'Afrique Centrale
+- Progiciel de gestion intégré pour la gestion de la scolarité .
+
+Logo ENAM
+École Nationale d'Administration et de la Magistrature du Cameroun.
+- Logiciel de gestion administrative et de sécurité biométrique.
+
+logo client AFT
+Université Julius N'yéréré de Kankan
+Environnement Numérique de Travail (ENT)
+- Conception réalisation du portail Web et d'une Application Web.
+
+Administrations publiques
+Logo MINPOSTEL
+Ministère des Postes et Télécommunications du Cameroun.
+- Suivi et contrôle de la mise en place d’une plateforme technique et la mise en service du centre de recherche pour le développement de l’économie numérique au Cameroun.
+- Acquisition, installation et interconnexion des équipements automatiques de collecte et de transmission des données météorologiques.
+- Conception et développement de la plateforme web de développement des contenus locaux.
+- Réalisation du schéma directeur.
+
+Logo Ministère des Forets et de la Faune
+Ministère des Forêts et de la Faune du Cameroun.
+- Conception d'une application de gestion du marché intérieur du bois camerounais.
+
+Logo Aéroports Du Cameroun S.A
+Aéroport Du Cameroun, société de gestion des sept aéroports de concession.
+- Élaboration d'une charte informatique.
+
+Logo Ministère des Transports
+Ministère des Transports du Cameroun.
+- Implémentation d'une base de données centralisées de gestion des données de sécurité routière.
+- Numérisation des archives et mise en place d'une banque de données moderne.
+
+Logo MINEPAT
+Ministère de l'Economie, de la Planification et de l'Aménagement du Territoire du Cameroun.
+- Déploiement de la solution MULTIGEST et développement du portail web.
+
+Logo Ministère de la Communication
+Ministère de la Communication du Cameroun.
+- Conception et développement de l'agence virtuelle de presse.
+
+Logo Minrex
+Ministère des Relations Extérieures du Cameroun.
+- Élaboration du Schéma directeur.
+
+Logo Ministère de l'Enseignement Secondaire
+Ministère de l'Enseignement Secondaire.
+- Dématérialisation des documents.
+
+Logo Ministère du Commerce
+Ministère du Commerce du Cameroun.
+- Conception réalisation référencement portail web.
+
+Logo Ministère des Finances
+Ministère Des Finances du Cameroun.
+- Déploiement de la plateforme TALEND-ETL pour l'intégration des données des admnistrations.
+
+fond routier
+Fonds routier
+- Archivage Physique et Numérique .
+
+MINFOPRA client AFT
+Ministère de la Fonction Publique et de la Reforme Administrative de la République du Cameroun
+- Authentification des parchemins .
+- Dématérialisation des procédures administratives.
+- Migration du réseau local et sécurisation de la salle serveur.
+- Gestion du palmarès des meilleurs services publics
+
+Logo Cameroon Civil Aviation Authority
+Autorité Aéronautique du Cameroun, société de régulation et de supervision économique des activités aéronautiques.
+- Implémentation d’une infrastructure virtuelle (VMware).
+
+Logo Communauté Urbaine de Yaoundé
+Communauté Urbaine de Yaoundé Cameroun.
+- Application de gestion de suivi et d'instructions des demandes des actes d'urbanisme.
+
+Logo HGY
+Hôpital Général de Yaoundé Cameroun.
+- Application de gestion du dossier patient et de gestion administrative.
+
+logo MINPMEESA
+Ministère des Petites et Moyennes Entreprises, de l'Économie Sociale et de l'Artisanat du Cameroun.
+- Etude sur la gestion documentaire et l'archivage numérique.
+
+Logo Ministère de la Santé
+Ministère de la Santé du Cameroun.
+- Conception réalisation référencement portail web.
+
+Logo ACP
+Afrique Caraïbe Pacifique.
+- Développement de l'application pour le systèmes d'information pour la fiscalité forestière (SIFF).
+
+Armoiries du Cameroun
+Ministère des Mines, de l'Industrie et du Développement Technologique du Cameroun.
+- Conception réalisation référencement portail web.
+
+Logo Ministère de l'Enseignement Supérieur
+Ministère de l'Enseignement Supérieur du Cameroun.
+- Gestion électronique de correspondances administratives.
+
+Ministère de l'Enseignement Supérieur, de la Recherche Scientifique, et de l'Innovation
+Ministère de l'Enseignement Supérieur et de la Recherche Scientifique et de l'Innovation
+- Élaboration du schéma directeur.
+
+Télécoms
+Logo ART
+Agence de Régulation des Télécommunications.
+- Système automatisé de gestion des données statistiques.
+- Archivage numérique.
+
+Logo CAMTEL
+Cameroon Télécommunication
+- Assistance à maîtrise d'ouvrage projet DATACENTER.
+
+Logo SODIACOM
+Entreprise guinnéene de télécommunication.
+- Développement référencement site Web.

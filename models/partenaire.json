@@ -1,0 +1,91 @@
+{
+    "Progiciel_de_Gestion_Intégré": [
+      {
+        "instruction": "Pourquoi un ERP est-il important pour une organisation ?",
+        "response": "Un ERP permet de minimiser les coûts, réduire les erreurs, assurer l'unicité de l'information, maintenir l'intégrité des systèmes d'information, et faciliter la prise de décisions stratégiques."
+      },
+      {
+        "instruction": "Quels avantages l'ERP Odoo apporte-t-il aux entreprises ?",
+        "response": "L'ERP Odoo garantit l'interopérabilité, le pilotage et la cohérence des processus métiers tout en optimisant les ressources et en réduisant les erreurs."
+      },
+      {
+        "instruction": "Comment AFREETECH accompagne-t-elle dans l'installation d'un ERP ?",
+        "response": "AFREETECH propose le paramétrage précis des fonctionnalités techniques, l'installation complète des serveurs, le développement de scripts personnalisés, et l'intégration harmonieuse des modules fonctionnels."
+      },
+      {
+        "instruction": "Quelles sont les étapes de mise en œuvre d'un ERP avec AFREETECH ?",
+        "response": "Les étapes incluent l'étude préalable, l'implémentation, les tests et recettes, le déploiement, et l'accompagnement post-démarrage."
+      }
+    ],
+    "Gestion_Electronique_Des_Documents": [
+      {
+        "instruction": "Quels sont les avantages de la GED pour une entreprise ?",
+        "response": "La GED permet un accès simultané et en temps réel aux documents, améliore la productivité, facilite la dématérialisation des factures, et contribue à la protection de l'environnement."
+      },
+      {
+        "instruction": "Pourquoi adopter une solution GED dans une organisation ?",
+        "response": "La GED améliore l'efficacité du système d'information en rendant les documents accessibles, sécurisés et faciles à partager, tout en limitant les pertes de documents."
+      },
+      {
+        "instruction": "Comment AFREETECH accompagne dans la mise en place de la GED ?",
+        "response": "AFREETECH propose un audit documentaire, la mise en place d'outils de gestion, le traitement manuel et électronique des documents, et la conception d'instruments de recherche."
+      },
+      {
+        "instruction": "Quelles étapes sont nécessaires pour mettre en place une GED ?",
+        "response": "Les étapes incluent l'audit de gestion documentaire, l'élaboration d'outils de gestion, le traitement manuel des documents, la conception d'instruments de recherche, et le traitement électronique."
+      }
+    ],
+    "Formations": [
+      {
+        "instruction": "Quels sont les objectifs des formations proposées par AFREETECH ?",
+        "response": "Augmenter la productivité, répondre à des besoins spécifiques, maintenir et améliorer les qualifications, promouvoir le leadership, et valoriser l'image de l'entreprise."
+      },
+      {
+        "instruction": "Quels types de formations sont disponibles chez AFREETECH ?",
+        "response": "AFREETECH propose des formations en management de projets, sécurité des SI, certifications CISCO, pentesting, ERP Odoo, développement d'applications, et bureautique."
+      },
+      {
+        "instruction": "Quels sont les atouts des formations AFREETECH ?",
+        "response": "Les formations incluent des formateurs spécialisés, des sessions participatives, une documentation ciblée, un suivi post-formation, et un cadre idéal pour maximiser les performances."
+      }
+    ],
+    "Partenaires": [
+      {
+        "instruction": "Quels sont les services offerts par Odoo ?",
+        "response": "Odoo propose une suite d’applications professionnelles couvrant CRM, eCommerce, comptabilité, inventaire, point de vente, gestion de projets, et bien plus encore."
+      },
+      {
+        "instruction": "Comment Talend aide-t-il les entreprises ?",
+        "response": "Talend fournit l’agilité des données pour exploiter les technologies Cloud, gérer les volumes de données croissants et transformer les infrastructures IT."
+      },
+      {
+        "instruction": "Quel est le domaine d'expertise d'Aztelco ?",
+        "response": "Aztelco est spécialisé dans les télécommunications et les nouvelles technologies, avec une expérience de 40 ans en Afrique."
+      },
+      {
+        "instruction": "Quels produits et services Efalia propose-t-il ?",
+        "response": "Efalia offre des solutions de Gestion Électronique de Documents (GED) comme MULTIGEST WEB et FileDirector, et distribue des scanners professionnels."
+      },
+      {
+        "instruction": "Quelle est la mission de Business2Any ?",
+        "response": "Business2Any vise à changer l’approche des systèmes d’information en se concentrant sur le pilotage dans des environnements complexes."
+      },
+      {
+        "instruction": "Quels services Dell propose-t-il ?",
+        "response": "Dell permet aux clients d’utiliser la technologie pour concrétiser leurs rêves, grâce à des solutions fiables pour le travail, la maison et l’école."
+      },
+      {
+        "instruction": "Quels domaines OVH couvre-t-il ?",
+        "response": "OVH se spécialise dans les datacenters, la production de serveurs, les certifications, les réseaux, et des solutions écologiques et sécurisées."
+      },
+      {
+        "instruction": "Quels sont les produits phares de Microsoft ?",
+        "response": "Microsoft propose les systèmes d’exploitation Windows, la suite Office, et les navigateurs Internet Explorer et Edge."
+      },
+      {
+        "instruction": "Comment devenir partenaire d’AFREETECH ?",
+        "response": "Pour devenir partenaire, cliquez sur le bouton prévu, remplissez le formulaire et un conseiller vous contactera rapidement."
+      }
+    ]
+  }
+  

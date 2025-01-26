@@ -1,0 +1,79 @@
+[
+    {
+      "instruction": "Qu'est-ce que la messagerie SMS en temps réel et comment peut-elle bénéficier à mon entreprise ?",
+      "response": "La messagerie SMS en temps réel permet de créer et déployer des alertes, rappels et notifications en intégrant votre système de gestion de la relation client ou votre système interne à notre passerelle API. Avec 99,999% de disponibilité, vous pouvez automatiser ou planifier vos messages marketing en fonction du comportement des clients, des commandes et d'autres processus, pour une communication efficace et instantanée."
+    },
+    {
+      "instruction": "Quels sont les avantages de l'intégration de l'API SMS dans mon système ?",
+      "response": "L'intégration de notre API SMS dans votre système vous permet d'envoyer des messages personnalisés en masse, d'automatiser les interactions avec vos clients et d'améliorer l'efficacité des processus de communication. Vous bénéficiez d'un accès instantané au code de l'API et de support pour une solution sur mesure, adaptable à plusieurs langages de programmation."
+    },
+    {
+      "instruction": "Comment la plateforme de messagerie SMS garantit-elle une livraison fiable de mes messages ?",
+      "response": "Notre plateforme offre des connexions directes via notre statut Platinum Operator avec les réseaux mobiles, garantissant des itinéraires premium. Cela vous permet d'obtenir des vitesses de livraison et un taux de délivrabilité inégalés pour vos messages, ce qui optimise l'impact de vos campagnes."
+    },
+    {
+      "instruction": "Quels types de fonctionnalités sont disponibles pour gérer mes campagnes SMS ?",
+      "response": "Notre plateforme offre des fonctionnalités avancées telles que la gestion complète de la campagne, l'automatisation des messages marketing, la possibilité de personnaliser les messages en fonction de vos besoins, et l'intégration avec vos systèmes internes via des API. Vous pouvez également planifier, envoyer et analyser des campagnes SMS avec des rapports détaillés."
+    },
+    {
+      "instruction": "Pourquoi devrais-je utiliser une stratégie digitale pour mon entreprise ?",
+      "response": "Une stratégie digitale bien construite vous permet de déployer efficacement vos efforts marketing, d'augmenter votre visibilité à l'international, d'améliorer l'image de votre entreprise en ligne, et de répondre aux attentes mesurables des clients. En optimisant votre présence sur les canaux numériques, vous stimulez votre business et accédez à de nouvelles opportunités."
+    },
+    {
+      "instruction": "Quels sont les outils webmarketing que vous proposez ?",
+      "response": "Nous proposons des outils et des actions webmarketing tels que le référencement naturel (SEO), des campagnes de mailing ciblées, la gestion de contenu à travers des blogs, et des campagnes publicitaires sur des plateformes comme Google Ads. Ces outils sont adaptés pour améliorer la visibilité de votre site et atteindre vos objectifs marketing."
+    },
+    {
+      "instruction": "En quoi consiste votre solution de gestion de la relation client (CRM) ?",
+      "response": "Notre solution InnovCRM est flexible et facilement intégrable pour les PME. Elle permet de gérer la relation client en automatisant les tâches, optimisant la collaboration entre les services, et améliorant la réactivité grâce aux données collectées. Vous bénéficiez également d'une mise en œuvre rapide et d'une formation dédiée à l’utilisation du système."
+    },
+    {
+      "instruction": "Comment intégrer efficacement votre CRM dans mon entreprise ?",
+      "response": "L'intégration de notre CRM se fait en trois étapes principales : l'analyse préalable pour comprendre vos systèmes existants, l'intégration de l'infrastructure et la configuration du CRM, et enfin, le déploiement suivi d'une formation et d'un support pour vous accompagner dans l’utilisation optimale du système."
+    },
+    {
+      "instruction": "Quels sont les principaux avantages de la messagerie SMS pour la fidélisation des clients ?",
+      "response": "La messagerie SMS permet de créer une communication directe et personnalisée avec vos clients, ce qui favorise la fidélisation. Vous pouvez envoyer des rappels, des offres spéciales et des notifications en temps réel, renforçant ainsi l'engagement des clients et augmentant la probabilité de réachats."
+    },
+    {
+      "instruction": "Pourquoi choisir un service de webmarketing personnalisé plutôt qu'une solution standard ?",
+      "response": "Une solution de webmarketing personnalisée est adaptée à vos besoins spécifiques et à vos objectifs commerciaux. Contrairement à une solution standard, elle vous permet de cibler précisément vos audiences, d'ajuster vos campagnes en fonction des résultats, et de maximiser votre retour sur investissement."
+    },
+    {
+      "instruction": "Qu'est-ce que le blog d'AFREETECH ?",
+      "response": "Le blog d'AFREETECH vous permet de découvrir l'opinion d'experts en sécurité, l'actualité, des astuces, et bien plus encore."
+    },
+    {
+      "instruction": "Qu'est-ce que la gestion des ressources humaines chez AFREETECH ?",
+      "response": "La gestion des ressources humaines chez AFREETECH comprend des fonctionnalités pour gérer toutes les activités liées à vos collaborateurs, de l'embauche à la retraite, avec une solution modulable et évolutive."
+    },
+    {
+      "instruction": "Quelles sont les fonctionnalités du logiciel de gestion des ressources humaines ?",
+      "response": "Le logiciel permet de gérer les absences, congés, la rémunération, les compétences, les recrutements, et bien plus, avec un accès sécurisé 24h/24 et 7j/7 sur divers appareils."
+    },
+    {
+      "instruction": "Qu'est-ce que la gestion électronique des documents ?",
+      "response": "La gestion électronique des documents (GED) permet de dématérialiser les documents de l'entreprise, d'améliorer la productivité, de faciliter l'accès et le partage sécurisé des documents, et de participer à la protection de l'environnement."
+    },
+    {
+      "instruction": "Quels sont les avantages de la GED ?",
+      "response": "Les avantages incluent un gain de productivité, une sécurité accrue des documents, une réduction des frais de stockage papier, et une recherche rapide des informations."
+    },
+    {
+      "instruction": "Qu'est-ce que la solution de gestion de la production, trésorerie et comptabilité ?",
+      "response": "Cette solution permet de maximiser les profits en optimisant la gestion des finances, du suivi des flux financiers à la préparation des budgets, tout en assurant la conformité aux réglementations."
+    },
+    {
+      "instruction": "Qu'est-ce que la gestion hospitalière et pharmaceutique d'AFREETECH ?",
+      "response": "AFREETECH propose une solution moderne et sécurisée pour la gestion des risques liés aux procédures critiques dans les pharmacies hospitalières, ainsi que pour le suivi des médicaments et des performances du circuit de soins."
+    },
+    {
+      "instruction": "Quelles sont les fonctionnalités de la gestion hospitalière ?",
+      "response": "Elle comprend des outils pour la gestion des risques, le contrôle automatisé des erreurs, la supervision des processus de médicaments, ainsi que des indicateurs de performance en temps réel pour mesurer et optimiser les performances."
+    },
+    {
+      "instruction": "Est-ce que la plateforme d'AFREETECH est accessible ?",
+      "response": "Oui, la plateforme est accessible 24h/24 depuis des ordinateurs portables et des appareils mobiles, permettant une utilisation flexible et partout."
+    }
+]
+  

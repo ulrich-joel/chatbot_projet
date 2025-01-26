@@ -1,0 +1,18 @@
+[
+    {
+        "instruction": "Quels sont les bureaux internationaux disponibles ?",
+        "response": "Les bureaux internationaux sont situés à : France, Cameroun et Guinée Conakry."
+    },
+    {
+        "instruction": "Quels sont les détails du bureau en France ?",
+        "response": "93 rue Paul Bellamy, Tél : +33 (0) 2 40 48 08 78, Port : +33 (0) 6 67 58 07 30."
+    },
+    {
+        "instruction": "Quels sont les détails du bureau au Cameroun ?",
+        "response": "Nouvelle Route Bastos, BP: 35107 Yaoundé, Tél : +237 242 68 56 77, Port : +237 673 80 81 48."
+    },
+    {
+        "instruction": "Quels sont les détails du bureau en Guinée Conakry ?",
+        "response": "Rue DI – 781 CONAKRY, Quartier minière, Tél : +224 68.28.50.83."
+    }
+]
