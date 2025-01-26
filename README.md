@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 chatbot_project/
 
 ├── models/                 # Pour les modèles et les opérations de fine-tuning
@@ -41,3 +42,6 @@ Modèle : load_model.py et fine_tune.py assurent que vous pouvez entraîner et c
 Base de connaissances : faiss_search.py intègre une recherche documentaire.
 
 API : server.py centralise tout pour le rendre accessible à votre site web.
+=======
+# chatbot_projet
+>>>>>>> 9f52684d2c5e5016f96f164a1a2322b987cf7f04
